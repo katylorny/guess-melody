@@ -11,7 +11,7 @@ const WelcomeScreen = () => {
       <ul className="welcome__rules-list">
         <li>За 5 минут нужно ответить на все вопросы.</li>
         <li>Можно допустить 3 ошибки.</li>
-      </ul>
+      </ul>asdasdasdasdasd
       <p className="welcome__text">Удачи!</p>
     </section>
   );
