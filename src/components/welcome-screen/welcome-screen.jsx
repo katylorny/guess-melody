@@ -7,7 +7,7 @@ const WelcomeScreen = () => {
       </div>
       <button className="welcome__button"><span className="visually-hidden">Начать игру</span></button>
       <h2 className="welcome__rules-title">Правила игрdы ss</h2>
-      <p className="welcome__text">Правила просты:</p>
+      <p className="welcome__text">Правила32 просты:</p>
       <ul className="welcome__rules-list">
         <li>За 5 минут нужно ответить на все вопросы.</li>
         <li>Можно допустить 3 ошибки.</li>
